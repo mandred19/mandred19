@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=aleksieiev-o&style=flat-square&color=blue" alt=""/>
   <br>
   <h1>
-    Hey, friend! I’m Alexander!
+    👋 Hi! I’m Alexander!
   </h1>
 </div>
 
@@ -29,11 +29,13 @@
 ---
 
 ### :man_technologist: About me:
-I’m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
-- :telescope: I’m working as frontend developer while building web applications.
-- :seedling: I study new technologies, when the opportunity presents itself.
-- :zap: In my free time, I read books or spend the time actively.
+I’m a frontend developer from Ukraine.
+
+- :telescope: I build web applications and enjoy turning ideas into useful, practical software.
+- :seedling: I mainly work with modern frontend technologies and continuously explore new tools and approaches to improve my skills.
+- :zap: In my free time, I work on personal and open-source projects, learn new technologies, read books and stay active.
+
 - :mailbox:Mail me: [![Gmail Badge](https://img.shields.io/badge/-frontdev1991-red?style=flat&logo=gmail&logoColor=white)](mailto:frontdev1991@gmail.com)
 
 ---
@@ -93,7 +95,7 @@ I’m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 <!--
-**aleksieiev-o/aleksieiev-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mandred19/mandred19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
